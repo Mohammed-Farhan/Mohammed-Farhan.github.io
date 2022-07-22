@@ -15,7 +15,7 @@ I am a Software Engineer with an experience of around 8 months working with Flut
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="50"/>
  <img src="https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png" alt="Bootstrap" width="40" height="50"/>
 
- <img src="https://us.123rf.com/450wm/jovanas/jovanas1612/jovanas161200791/68255878-ic%C3%B4ne-sql.jpg" alt="SQL" width="40" height="50"/>
+ <img src="https://us.123rf.com/450wm/jovanas/jovanas1612/jovanas161200791/68255878-ic%C3%B4ne-sql.jpg" alt="SQL" width="40" height="60"/>
  </p> 
 
 ---
@@ -69,19 +69,19 @@ Body Mass Index (BMI) Calculatorto measure BMI value by taking inputs from the u
 
 * ### **OSMANIA UNIVERSITY**
   #### Master of Technology in Computer Science (2020 - 2022)
-  GPA 7.61 (Current)
+  GPA: 7.61 (Current)
 
 * ### **OSMANIA UNIVERSITY**
   #### Batachelor of Engineering in Computer Science (2016 - 2020) 
-  GPA 8.60
+  GPA: 8.60
 
 * ### **TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION**
   #### Intermediate(12th) in Mathematics-Physics-Chemistry (2014 - 2016)
-  Percentage 96.8
+  Percentage: 96.8
 
 * ### **BOARD OF SECONDARY EDUCATION**
   #### SSC (2013- 2014) 
-  GPA 8.70
+  GPA: 8.70
 
 ---
 
