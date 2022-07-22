@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Software Engineer with an experience of around 8 months working with Flutter, Front-End frameworks and knowledge of other technologies. I have extensively worked on Flutter, Java, Web Technologies.
+I am a Software Engineer with an experience of around 8 months working with Flutter, Front-End frameworks and knowledge of other technologies. I have extensively worked on Flutter, Java, Web Technologies, computer science problems.
 
 ---
 
