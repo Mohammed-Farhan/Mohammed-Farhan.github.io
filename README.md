@@ -67,21 +67,21 @@ Body Mass Index (BMI) Calculatorto measure BMI value by taking inputs from the u
 
 ## Education
 
-* ### **OSMANIA UNIVERSITY**
-  #### Master of Technology in Computer Science (2020 - 2022)
-  GPA: 7.61 (Current)
+### **OSMANIA UNIVERSITY**
+#### Master of Technology in Computer Science (2020 - 2022)
+GPA: 7.61 (Current)
 
-* ### **OSMANIA UNIVERSITY**
-  #### Batachelor of Engineering in Computer Science (2016 - 2020) 
-  GPA: 8.60
+### **OSMANIA UNIVERSITY**
+#### Batachelor of Engineering in Computer Science (2016 - 2020) 
+GPA: 8.60
 
-* ### **TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION**
-  #### Intermediate(12th) in Mathematics-Physics-Chemistry (2014 - 2016)
-  Percentage: 96.8
+### **TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION**
+#### Intermediate(12th) in Mathematics-Physics-Chemistry (2014 - 2016)
+Percentage: 96.8
 
-* ### **BOARD OF SECONDARY EDUCATION**
-  #### SSC (2013- 2014) 
-  GPA: 8.70
+### **BOARD OF SECONDARY EDUCATION**
+#### SSC (2013- 2014) 
+GPA: 8.70
 
 ---
 
