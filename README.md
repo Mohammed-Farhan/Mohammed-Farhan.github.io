@@ -25,10 +25,8 @@ I am a Software Engineer with an experience of around 8 months working with Flut
 * ### TRINGAM | Software Engineer (Feb 2022-Present)
 
       Working on Front-End of the Company Application using Flutter and creating user interfaces from scratch and
-      integrating it with Back-End.
-      Made the complete application responsive and and Designed scripts for parsing JSON data as perthe requirements
-      using JavaScript, Python.
-      Helped fixed code issues for other developers, optimised the code quality and maintained documentation forfuture
+      integrating it with Back-End.Made the complete application responsive and and Designed scripts for parsing JSON data as perthe requirements
+      using JavaScript, Python.Helped fixed code issues for other developers, optimised the code quality and maintained documentation forfuture
       references.
  
 * ### CHEGG INDIA | Subject Matter Expert (Aug 2021-Feb 2022)
@@ -38,24 +36,16 @@ I am a Software Engineer with an experience of around 8 months working with Flut
  
 * ### MICROSOFT | Future Ready Talent Intern (Nov 2021 - Jan 2022)
 
-      Learned about Microsoft Technologies such as Azure Fundamentals, Developer and Github Basics.
-      Build a Project on Covid-19 Tracker using ReactJS, Material UI, CSS, Microsoft Technologies and deployed it on
-      Firebase.
+      Learned about Microsoft Technologies such as Azure Fundamentals, Developer and Github Basics. Build a Project on Covid-19 Tracker using ReactJS, Material UI, CSS, Microsoft Technologies and deployed it on Firebase.
  
 * ### 3G INSTITUTE OF RESEARCH & POLICY STUDIES | Data Analyst (Jun 2020 - Jul 2020)
 
-      Data analyzing, Data visualization had been done on real time data and records are created for interpretation purpose. 
-      Assisted team in the projects expansion and getting better project results and in the creation of dynamic & static
-      pages in the website development. Also worked on canvas, presentation and different social media platforms for data 
-      analyzing
+      Data analyzing, Data visualization had been done on real time data and records are created for interpretation purpose. Assisted team in the projects expansion and getting better project results and in the creation of dynamic & static pages in the website development. Also worked on canvas, presentation and different social media platforms for data analyzing.
 
 # 
 * ### GLEAM TECHNOLOGIES | Web Developer (Jun 2019 - Jul 2020) 
 
-      School Management System was implemented which provides the facilities such as managing student details, fee 
-      payments, student reports and many more. This application was created using Bootstrap, HTML & CSS, JS and PHP.
-      Created E-Commerce Website without the gateway functionality using HTML5, CSS3 and Bootstrap and 
-      developed front-end web applications using HTML/CSS, JavaScript & PHP.
+      School Management System was implemented which provides the facilities such as managing student details, fee payments, student reports and many more. This application was created using Bootstrap, HTML & CSS, JS and PHP. Created E-Commerce Website without the gateway functionality using HTML5, CSS3 and Bootstrap and developed front-end web applications using HTML/CSS, JavaScript & PHP.
 
 ---
 
@@ -63,26 +53,19 @@ I am a Software Engineer with an experience of around 8 months working with Flut
 
 * ### NETWORK SECURITY WEB APPLICATION FOR FILE TRANSFER | Java | Web Technologies-
 
-      A Web Application which secures the files transmitted over the network using DES encryption scheme and 
-      Network coding from Hackers. The data owners, users are granted persmissions to the files from 
-      the  admin and a dynamic update mechanism for updating keys is also implemented. 
-      Tech stack Used: Java, HTML&CSS, Bootstrap, JS and SQLite.
+      A Web Application which secures the files transmitted over the network using DES encryption scheme and Network coding from Hackers. The data owners,         users are granted persmissions to the files from the  admin and a dynamic update mechanism for updating keys is also implemented. Tech stack Used:      Java, HTML&CSS, Bootstrap, JS and SQLite.
 
 * ### INVENTORY MANAGEMENT SYSTEM | Java -
 
-      A software for tracking inventory levels, orders, sales and deliveries. It has mechanisms to add, 
-      delete and modify details about the items in the Inventory on daily basis. This project was created 
-      using Java Swings and Serialization.
+      A software for tracking inventory levels, orders, sales and deliveries. It has mechanisms to add, delete and modify details about the items in the Inventory on daily basis. This project was created using Java Swings and Serialization.
 
 * ### SCHOOL MANAGEMENT SYSTEM | Web Technologies -
 
-      A web-based application which provides the facilities such as managing student details, fee payments,
-      student reports and many more. This application was created using BootStrap, HTML & CSS, JS and PHP.
+      A web-based application which provides the facilities such as managing student details, fee payments, student reports and many more. This application was created using BootStrap, HTML & CSS, JS and PHP.
 
 * ### BMI CALCULATOR | Flutter| Dart - 
 
-      Body Mass Index (BMI) Calculatorto measure BMI value by taking inputs from the user such as gender, 
-      height, weight, age and gives the results with the description about the body weight.
+      Body Mass Index (BMI) Calculatorto measure BMI value by taking inputs from the user such as gender,  height, weight, age and gives the results with the description about the body weight.
 
 ---
 
@@ -108,15 +91,15 @@ I am a Software Engineer with an experience of around 8 months working with Flut
 
 ### ACTIVITIES & ACHIEVEMENTS
 
-Solved 500+ problems on Leetcode, GFG, Pepcoding.
-Achieved Java certification from Hackerrank and Oracle Academy.
-Achieved Database Design and Programming with SQL certification from Oracle Academy.
-Completed Elements of AI course from University of Helsinki and Reaktor.
-Microsoft Virtual Experience Program Participant with InsideSherpa- June 2021.
-Completed Communication Skills at work place program by Udemy.
-Participated in MJ Hack Revolution, a hackathon conducted by Muffakham Jah College of Engineering& Technology, Hyderabad.
-1st Rank in XII class in all branches of my college.
-Web Cast Volunteer in GHMC Elections 2020.
+* Solved 500+ problems on Leetcode, GFG, Pepcoding.
+* Achieved Java certification from Hackerrank and Oracle Academy.
+* Achieved Database Design and Programming with SQL certification from Oracle Academy.
+* Completed Elements of AI course from University of Helsinki and Reaktor.
+* Microsoft Virtual Experience Program Participant with InsideSherpa- June 2021.
+* Completed Communication Skills at work place program by Udemy.
+* Participated in MJ Hack Revolution, a hackathon conducted by Muffakham Jah College of Engineering& Technology, Hyderabad.
+* 1st Rank in XII class in all branches of my college.
+* Web Cast Volunteer in GHMC Elections 2020.
 
 ---
 
