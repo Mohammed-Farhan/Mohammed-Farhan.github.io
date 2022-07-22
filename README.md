@@ -47,7 +47,7 @@ School Management System was implemented which provides the facilities such as m
 
 ## Projects
 
-### NETWORK SECURITY WEB APPLICATION FOR FILE TRANSFER | Java | Web Technologies-
+### NETWORK SECURITY WEB APPLICATION FOR FILE TRANSFER | Java | Web Technologies -
 
 A Web Application which secures the files transmitted over the network using DES encryption scheme and Network coding from Hackers. The data owners, users are granted persmissions to the files from the  admin and a dynamic update mechanism for updating keys is also implemented. Tech stack Used: Java, HTML&CSS, Bootstrap, JS and SQLite.
 
@@ -68,16 +68,20 @@ Body Mass Index (BMI) Calculatorto measure BMI value by taking inputs from the u
 ## Education
 
 * ### **OSMANIA UNIVERSITY**
-  #### Master of Technology in Computer Science (2020 - 2022) | GPA 7.61 (Current)
+  #### Master of Technology in Computer Science (2020 - 2022)
+  GPA 7.61 (Current)
 
 * ### **OSMANIA UNIVERSITY**
-  #### Batachelor of Engineering in Computer Science (2016 - 2020) | GPA 8.60
+  #### Batachelor of Engineering in Computer Science (2016 - 2020) 
+  GPA 8.60
 
 * ### **TELANGANA STATE BOARD OF INTERMEDIATE EDUCATION**
-  #### Intermediate(12th) in Mathematics-Physics-Chemistry (2014 - 2016) | Percentage 96.8
+  #### Intermediate(12th) in Mathematics-Physics-Chemistry (2014 - 2016)
+  Percentage 96.8
 
 * ### **BOARD OF SECONDARY EDUCATION**
-  #### SSC (2013- 2014) | GPA 8.70
+  #### SSC (2013- 2014) 
+  GPA 8.70
 
 ---
 
